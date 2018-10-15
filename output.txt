@@ -1,0 +1,9 @@
+********************************************************
+ID        Name           Age     Gender  Score   Grade   
+12        ffg            34      f       56      d       
+123       sdf            12      f       76      c       
+********************************************************
+Average Age:  23
+Average Score:  66
+Male Count:  0
+Female Count:  2

@@ -64,7 +64,7 @@ int main() {
   int female_count = 0;
   int total_age = 0;
   int total_score = 0;
-  const int NO_STUD = 2;
+  const int NO_STUD = 5;
 
   for (int i = 0; i < NO_STUD; i++) {
     string id;
